@@ -1,0 +1,111 @@
+.form {
+  width: 650px;
+  margin: auto;
+}
+
+.form .fa-arrow-left {
+  margin-right: 30px;
+}
+
+.form .formsection {
+  padding-right: 120px;
+}
+
+.form .formsection .success input {
+  border: 1px solid #309e30;
+}
+
+.form .formsection .error input {
+  border: 1px solid red;
+}
+
+.form .formsection .error .fa-exclamation-circle {
+  visibility: visible;
+  color: red;
+}
+
+.form .heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.form .heading .link {
+  color: black;
+  text-decoration: none;
+}
+
+.form .heading .link:hover {
+  color: gray;
+}
+
+.form .button {
+  float: right;
+  width: 120px;
+  height: 35px;
+  padding-top: 8px;
+  font-size: 15px;
+  text-align: center;
+  background-color: #29a329;
+  color: white;
+  cursor: pointer;
+}
+
+.form .button .link {
+  color: white;
+  text-decoration: none;
+}
+
+.form div input {
+  width: 100%;
+  height: 40px;
+}
+
+.form .formsection .success .fa-check-circle {
+  visibility: visible;
+  color: #309e30;
+}
+
+.form .formsection .form-controls .fa-check-circle {
+  margin-left: 10px;
+  left: 93%;
+}
+
+.form .formsection .form-controls i {
+  position: relative;
+  top: -30px;
+  left: 90%;
+  visibility: hidden;
+}
+
+.form .formsection .form-controls .fa-asterisk {
+  left: 0%;
+  visibility: visible;
+  top: 0%;
+  font-size: 8px;
+  top: -10px;
+  color: red;
+}
+
+.form .phonenumbers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.form .phonenumbers .form-controls i {
+  left: 80%;
+}
+
+.form textarea {
+  margin: 0px;
+  width: 100%;
+  height: 84px;
+}
+/*# sourceMappingURL=form.css.map */

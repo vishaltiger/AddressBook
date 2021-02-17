@@ -1,0 +1,27 @@
+$width:1000px;
+$height:"auto";
+
+.Persondetails{
+    margin-left: 30%;
+padding:50px;
+padding-top: 20px;
+height: $height;
+width: $width;
+;
+.name{
+    font-size: 32px;
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: bold;
+    word-break: break-all;
+
+}
+
+    .itemsDetails{
+        font-size: 40px;
+    }
+    .CardDetails{
+        margin-top: 2%;
+        align-self: center;
+    }
+
+}

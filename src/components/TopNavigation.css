@@ -1,0 +1,14 @@
+.Navigation .TopNavigation {
+  background-color: #3799C7;
+  padding: 10px;
+  height: 100px;
+  padding-left: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Navigation .TopNavigation p {
+  color: white;
+  font-size: 35px;
+  padding: 0px;
+}
+/*# sourceMappingURL=TopNavigation.css.map */
