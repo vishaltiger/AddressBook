@@ -1,0 +1,32 @@
+.section{
+    table, th, td {
+        border: 1px solid black;
+      }
+      
+      table {
+        width: 80%;
+        margin: auto;
+        th{
+            background-color: sandybrown;
+        }
+        tr{
+            background-color: tan;
+            text-align: center;
+        }
+        tr:hover{
+            background-color: skyblue;
+            cursor: pointer;
+        }
+      }
+    .title{
+ font-weight: bold;
+font-size: 20px;
+cursor: pointer;
+margin-left:2% ;
+    }
+
+    .items:hover{
+        background-color:lightskyblue;
+        cursor: pointer;
+    }
+}

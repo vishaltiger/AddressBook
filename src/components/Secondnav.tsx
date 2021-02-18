@@ -13,7 +13,7 @@ addIcon: IIconProps = { iconName: 'Add' };
         <Stack horizontal styles={stackStyles} className="Secondnav">
           <ul>
             <li  id="SHome">
-              <Link to="/home" className="link">HOME</Link>  
+              <Link to="/contacts" className="link">HOME</Link>  
             </li>
             <li  id="SAdd">
                <Link to="/form/1" className="link">+ADD</Link> 
