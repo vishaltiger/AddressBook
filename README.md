@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     <h1>Add Form</h1>
-    <img src="./ScreenShots/add.png" width="400px"</img> 
+    <img src="./ScreenShots/Add.png" width="400px"</img> 
 </div>
 <div align="center">
     <h1>Edit Form</h1>
